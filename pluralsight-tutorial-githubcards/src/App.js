@@ -1,3 +1,9 @@
+/**
+ * @todo Add this code into a multi-page app
+ * @body Need to add this code into a multi-page app. As you continue the pluralsight course, add new apps into multiple pages. Then get rid of this directory.
+ */
+
+
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
